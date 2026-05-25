@@ -55,6 +55,7 @@ This static HTML website is completely optimized for **1-Click Vercel Deployment
 
 ## 🔗 Links
 
+* **Live Website:** [https://media-squeeze-fawn.vercel.app/](https://media-squeeze-fawn.vercel.app/)
 * **Main Application Repository:** [MediaSqueeze App](https://github.com/mushi0541/MediaSqueeze)
 * **Report a Bug:** [Issues Page](https://github.com/mushi0541/MediaSqueeze-Website/issues)
 
