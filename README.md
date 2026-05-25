@@ -42,14 +42,9 @@ To run this website locally, you do not need any complex build steps or package 
 
 ---
 
-## 🚀 Deployment
+## 🔒 License
 
-This static HTML website is completely optimized for **1-Click Vercel Deployment**.
-
-1. Create an account on [Vercel](https://vercel.com).
-2. Click **Add New Project**.
-3. Import this GitHub repository.
-4. Click **Deploy**. Vercel will instantly build and host the site!
+This website codebase and design are strictly proprietary and copyrighted. It is not open source and is licensed exclusively to the original author. Reproduction, distribution, or unauthorized deployment is prohibited.
 
 ---
 
